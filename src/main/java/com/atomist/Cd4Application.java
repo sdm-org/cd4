@@ -23,6 +23,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Cd4Application {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(Cd4Application.class, args);
 	}
 }
